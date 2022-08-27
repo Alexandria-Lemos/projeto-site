@@ -1,0 +1,19 @@
+* {
+   font-family : salara, sans-serif; 
+   font-size: 24px;
+   font-weight: 400px;
+   color: rgb(206, 109, 64);
+   
+}
+
+body {
+    background-color: linear-gradiant(0deg, rgba(126, 0, 36, 0.582), rgb(255, 234, 112)) ;
+}
+
+main {
+    background-attachment: rgb(41, 33, 44);
+    width: 500px;
+    margin:auto;
+    padding: 10px;
+    box-shadow: 3px, 3px, 5px rgba(13, 4, 17, 0.842);
+}
