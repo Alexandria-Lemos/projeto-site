@@ -1,19 +1,24 @@
+
+
 * {
-   font-family : salara, sans-serif; 
-   font-size: 24px;
-   font-weight: 400px;
-   color: rgb(206, 109, 64);
+   background-attachment: fixed;
+   font-family: Gill Sans, sans-serif; 
+   font-size: 40px;
+   color:rgb(255, 255, 255) 
    
 }
 
 body {
-    background-color: linear-gradiant(0deg, rgba(126, 0, 36, 0.582), rgb(255, 234, 112)) ;
+    
+    background-image: linear-gradient(45deg, #a70045e7 35%, #ffd06b 35%, rgb(238, 95, 214));
 }
 
-main {
-    background-attachment: rgb(41, 33, 44);
+
+* main {
+    
+    background-attachment: rgb(190, 11, 255);
     width: 500px;
-    margin:auto;
+    margin: auto;
     padding: 10px;
-    box-shadow: 3px, 3px, 5px rgba(13, 4, 17, 0.842);
+    
 }
